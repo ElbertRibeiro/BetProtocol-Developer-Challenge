@@ -1,7 +1,31 @@
-.headerLeft {
-    text-align: left;
+header,
+.headerTop,
+.textLeft,
+.textRight{
+    background-color: #C0C0C0;
 }
 
-.headerRight {
-    text-align: right;
+
+.textLeft{
+    float: left;
+    margin-top: -20px;
 }
+
+.textRight{
+    float: right;
+    margin-top: -20px;
+    background-color: #C0C0C0;
+}
+.signIn{
+    float: right;
+    margin-right: 10px;
+    margin-top: -20px;
+}
+
+
+.divDown{
+    text-align: center;
+    margin-top: 60px;
+    background-color: #C0C0C0;
+}
+
