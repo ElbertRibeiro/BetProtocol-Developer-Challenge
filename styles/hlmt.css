@@ -1,3 +1,10 @@
+@font-face{
+    font-family: "Avenir"; 
+    src: url("../assets/fonts/Avenir.ttc");
+}
+
+
+
 header,
 .headerTop,
 .textLeft,
@@ -10,6 +17,7 @@ header,
 .textLeft{
     float: left;
     margin-top: -20px;
+    font-family: Avenir;
 }
 
 .textRight{
@@ -25,4 +33,5 @@ header,
 
 p{
     text-align: center;
+    font-family: Avenir;
 }
