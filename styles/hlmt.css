@@ -7,29 +7,42 @@
     font-family: Avenir;
 }
 
-header{
+html{
     background-color: #C0C0C0;
 }
 
 
 .textLeft{
     float: left;
-    margin-top: -20px;
+    margin-top: -110px;
     font-family: Avenir;
 }
 
 .textRight{
     float: right;
-    margin-top: -20px;
-    margin-right: 10px;
+    margin-top: -110px;
+    margin-right: 75px;
 }
 .signIn{
     float: right;
-    margin-top: -20px;
+    margin-top: -110px;
     margin-right: 10px;
 }
 
 .textCenter1{
     text-align: center;
-    margin-top: 150px;
+    margin-top: 120px;
+    font-size: 350%;
+}
+
+.textCenter2{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 150%;
+}
+
+.started{
+    position: relative;
+    margin-left: 600px;
+    margin-top: 100px;
 }
