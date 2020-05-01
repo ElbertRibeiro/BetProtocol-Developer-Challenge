@@ -72,10 +72,9 @@ html{
 
 
 .btn-group button {
-    background-color: #4CAF50; /* Green background */
-    border: 1px solid green; /* Green border */
-    color: white; /* White text */
-    padding: 10px 24px; /* Some padding */
+    background-color: #C0C0C0; 
+    border: 1px solid; 
+    padding: 5px 24px; /* Some padding */
     cursor: pointer; /* Pointer/hand icon */
     float: left; /* Float the buttons side by side */
   }
@@ -93,5 +92,5 @@ html{
   
   /* Add a background color on hover */
   .btn-group button:hover {
-    background-color: #3e8e41;
+    background-color: #C0C0C0;
   }
