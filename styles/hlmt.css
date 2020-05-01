@@ -58,3 +58,8 @@ html{
 .divTutors{
     text-align: center;
 }
+
+.divBody{
+    background-color: #F5F5F5;
+    padding: 14px;
+}
