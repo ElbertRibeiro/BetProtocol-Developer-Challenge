@@ -113,3 +113,14 @@ img{
 .avatarStudent{
     border-radius: 50%;
 }
+
+.lastButton{
+    margin-top: 70px;
+    margin-left: 495px;
+    padding: 14px 40px;
+    border-radius: 8px;
+    background-color: #C0C0C0;
+    color: black;
+    font-family: Avenir;
+    border: 1px solid #C0C0C0;
+}
