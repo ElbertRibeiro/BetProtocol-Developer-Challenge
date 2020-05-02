@@ -9,6 +9,7 @@
 
 html{
     background-color: #C0C0C0;
+    font-family: Avenir;
 }
 
 .textLeft{
@@ -124,3 +125,4 @@ img{
     font-family: Avenir;
     border: 1px solid #C0C0C0;
 }
+
