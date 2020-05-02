@@ -69,7 +69,6 @@ html{
     margin-top: 40px;
 }
 
-
 .btn-groupFliter button{
     border: 1px solid;
     display: inline-block;
@@ -87,14 +86,14 @@ html{
     margin-top: 60px;
     width: 250px;
     height: auto;
-  }
+    float: left;
+    border: 20px solid #E7EEDC;
+}
   
-  /* On mouse-over, add a deeper shadow */
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
   
-  /* Add some padding inside the card container */
 .container {
     padding: 2px 6px;
     background-color: #C0C0C0;
@@ -109,4 +108,8 @@ html{
 
 img{
     background-color: #E7EEDC;
+}
+
+.avatarStudent{
+    border-radius: 50%;
 }
