@@ -47,7 +47,7 @@ yarn start
 Download project folder with dependencies
 
 
-![Download Html](./public)
+[Download Html](./public)
 
 ```
 run the html file
