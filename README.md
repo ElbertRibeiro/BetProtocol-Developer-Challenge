@@ -1,4 +1,4 @@
-![Design preview for the Social media dashboard with theme switcher coding challenge](./public/images/Landing-Page.jpg)
+![Design preview for the Social media dashboard with theme switcher coding challenge](./images/Landing-Page.jpg)
 
 # BetProtocol Developer Challenge
 
@@ -52,6 +52,10 @@ Download project folder with dependencies
 ```
 run the html file
 ```
+
+## Site
+
+[Site publish](https://elbertribeiro.github.io/BetProtocol-Developer-Challenge/)
 
 ## Authors
 
