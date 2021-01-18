@@ -125,3 +125,26 @@ img{
     font-family: Avenir;
     border: 1px solid #C0C0C0;
 }
+
+@media screen and (max-width: 768px) {
+    .started {
+        margin-left: 28%;
+    }
+
+    .btn-groupSort {
+        margin-left: 50px;
+        margin-top: 30px;
+    }
+
+    .divBody {
+        width: 75%;
+    }
+
+    .header {
+        width: 100%;
+    }
+
+    .lastButton {
+        margin-left: 50px;
+    }
+}
