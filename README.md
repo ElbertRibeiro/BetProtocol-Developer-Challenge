@@ -1,4 +1,4 @@
-![Design preview for the Social media dashboard with theme switcher coding challenge](./images/Landing-Page.jpg)
+![Design preview for the Social media dashboard with theme switcher coding challenge](./assets/images/Landing-Page.jpg)
 
 # BetProtocol Developer Challenge
 
